@@ -1,16 +1,24 @@
-## Hi there 👋
+# KIR NEIR
 
-<!--
-**requiemneon-ship-it/requiemneon-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product-focused frontend developer
 
-Here are some ideas to get you started:
+I design and build clear web interfaces, dashboards, and workflow tools that turn complex processes into simple digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+- Frontend products and responsive websites
+- Dashboards, CRM, and internal business systems
+- Data-driven utilities and workflow automation
+- Reliable prototypes with automated tests and CI
+
+## Core stack
+
+`JavaScript` · `HTML` · `CSS` · `Node.js` · `Playwright` · `GitHub Actions`
+
+## Current focus
+
+I am rebuilding this portfolio around a focused set of production-quality case studies. Each project will present a clear business problem, thoughtful implementation, testing, deployment, and a live demo where appropriate.
+
+## Work with me
+
+For project or collaboration inquiries, open an issue in this repository.
