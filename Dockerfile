@@ -1,9 +1,9 @@
 FROM node:22-bookworm-slim
 WORKDIR /app
 
-COPY safecheck.part01a safecheck.part01b safecheck.part02 safecheck.part03 safecheck.part04 safecheck.part05 safecheck.part06 safecheck.part07 /tmp/
+COPY safecheck.part01a safecheck.part01b safecheck.part02 safecheck.part03 safecheck.part04 safecheck.part05 safecheck.part06a safecheck.part06b safecheck.part07 /tmp/
 
-RUN cat /tmp/safecheck.part01a /tmp/safecheck.part01b /tmp/safecheck.part02 /tmp/safecheck.part03 /tmp/safecheck.part04 /tmp/safecheck.part05 /tmp/safecheck.part06 /tmp/safecheck.part07 > /tmp/safecheck.tar.gz.b64 \
+RUN cat /tmp/safecheck.part01a /tmp/safecheck.part01b /tmp/safecheck.part02 /tmp/safecheck.part03 /tmp/safecheck.part04 /tmp/safecheck.part05 /tmp/safecheck.part06a /tmp/safecheck.part06b /tmp/safecheck.part07 > /tmp/safecheck.tar.gz.b64 \
  && node -e "const fs=require('fs'); const s=fs.readFileSync('/tmp/safecheck.tar.gz.b64','utf8').replace(/\\s+/g,''); fs.writeFileSync('/tmp/safecheck.tar.gz',Buffer.from(s,'base64'));" \
  && tar -tzf /tmp/safecheck.tar.gz >/dev/null \
  && tar -xzf /tmp/safecheck.tar.gz -C /app \
