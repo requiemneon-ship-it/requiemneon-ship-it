@@ -1,24 +1,58 @@
+<div align="center">
+
 # KIR NEIR
 
-### Product-focused frontend developer
+**Web developer · Telegram bots · Business tools & automation**
+**Веб-разработчик · Telegram-боты · Бизнес-инструменты и автоматизация**
 
-I design and build clear web interfaces, dashboards, and workflow tools that turn complex processes into simple digital experiences.
+![Status](https://img.shields.io/badge/status-open%20for%20orders-brightgreen)
+![Languages](https://img.shields.io/badge/speaks-RU%20%7C%20EN-blue)
 
-## What I build
+</div>
 
-- Frontend products and responsive websites
-- Dashboards, CRM, and internal business systems
-- Data-driven utilities and workflow automation
-- Reliable prototypes with automated tests and CI
+---
 
-## Core stack
+## 🇬🇧 About
 
-`JavaScript` · `HTML` · `CSS` · `Node.js` · `Playwright` · `GitHub Actions`
+I build websites, Telegram bots and small business systems — dashboards, lead intake, internal tools. I have more than a year of hands-on development behind me and I work in a way that makes results easy to check: typed code, automated tests, CI and a README that describes what actually exists.
 
-## Current focus
+I use AI assistants in my workflow, the same way many teams use linters or code generators, and I verify the output with tests and manual runs before it ships.
 
-I am rebuilding this portfolio around a focused set of production-quality case studies. Each project will present a clear business problem, thoughtful implementation, testing, deployment, and a live demo where appropriate.
+## 🇷🇺 Обо мне
 
-## Work with me
+Делаю сайты, Telegram-боты и небольшие бизнес-системы: дашборды, приём заявок, внутренние инструменты. Больше года практики в разработке. Стараюсь, чтобы результат было легко проверить: типизированный код, автотесты, CI и README, который описывает только то, что реально есть.
 
-For project or collaboration inquiries, open an issue in this repository.
+В работе использую ИИ-ассистентов, как другие используют линтеры и генераторы кода, а результат проверяю тестами и ручными запусками.
+
+---
+
+## 🛠 Stack / Стек
+
+| Level | Technologies |
+| --- | --- |
+| **Core** | JavaScript, TypeScript, HTML, CSS, Node.js, Next.js, React, Python |
+| **Used in projects** | SQLite, PostgreSQL schema design (draft, RLS policies), REST / OpenAPI, Telegram Bot API, GitHub Actions, Git |
+| **Learning** | C, Java, system design, E2E testing |
+
+## 📦 Projects / Проекты
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**PipelineMint**](https://github.com/requiemneon-ship-it/pipeline-mint) | Lead-pipeline dashboard: scoring, kanban by stage, REST API, OpenAPI contract, draft multi-tenant SQL schema, CI | Next.js, TypeScript |
+| [**Telegram Lead Bot**](https://github.com/requiemneon-ship-it/telegram-lead-bot) | Bot that collects client requests step by step, validates input, stores leads in SQLite, exports CSV; RU/EN | Python (stdlib only) |
+| [**Fishing store demo**](./fishing-demo) | Single-page online-store storefront (RU), lightweight Node static server | HTML, CSS, JS, Node.js |
+
+## 💼 What I can do for you / Чем могу помочь
+
+- Landing pages and multi-page websites / Лендинги и многостраничные сайты
+- Telegram bots: request intake, notifications, simple CRM / Telegram-боты: приём заявок, уведомления, простая CRM
+- Admin panels and dashboards / Админки и дашборды
+- Automation of routine tasks (scripts, integrations, exports) / Автоматизация рутины (скрипты, интеграции, выгрузки)
+- Fixing and extending existing code / Доработка существующего кода
+
+## 📬 Contact / Связаться
+
+Open an issue in this repository or write to me via the contact listed in my profile.
+Создайте issue в этом репозитории или напишите по контакту из профиля.
+
+<sub>Open to freelance orders worldwide · Работаю с заказами из любых стран</sub>
