@@ -42,6 +42,7 @@ I use AI assistants in my workflow, the same way many teams use linters or code 
 | --- | --- | --- |
 | [**PipelineMint**](https://github.com/requiemneon-ship-it/pipeline-mint) | Lead-pipeline dashboard: scoring, kanban by stage, REST API, OpenAPI contract, draft multi-tenant SQL schema, CI | Next.js, TypeScript |
 | [**Telegram Lead Bot**](https://github.com/requiemneon-ship-it/telegram-lead-bot) | Bot that collects client requests step by step, validates input, stores leads in SQLite, exports CSV; RU/EN | Python (stdlib only) |
+| [**Orders API**](https://github.com/requiemneon-ship-it/orders-api) | REST API for customer orders: validation, filters and pagination, status workflow, API-key auth, 16 tests, CI | Python, FastAPI, SQLite |
 | [**Fishing store demo**](./fishing-demo) | Single-page online-store storefront (RU), lightweight Node static server | HTML, CSS, JS, Node.js |
 
 ## 💼 What I can do for you / Чем могу помочь
