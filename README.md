@@ -8,7 +8,10 @@
 ![Status](https://img.shields.io/badge/status-open%20for%20orders-brightgreen)
 ![Languages](https://img.shields.io/badge/speaks-RU%20%7C%20EN-blue)
 
-🌐 **[requiemneon-ship-it.github.io](https://requiemneon-ship-it.github.io)**
+🌐 **[Портфолио / Portfolio](https://requiemneon-ship-it.github.io)** · **[Услуги и реальные демо / Hire KIR NEIR](https://requiemneon-ship-it.github.io/business/)**
+
+**Telegram-бот сломался?** [Небольшая правка от 2 900 ₽](https://t.me/ai_ivan_7042_bot?start=site_microfix) · [Запросить ответ разработчика](https://t.me/ai_ivan_7042_bot?start=site_human)  
+*Первичный контакт принимает автоматизированный помощник Иван. Работу, стоимость и сроки согласует разработчик.*
 
 </div>
 
