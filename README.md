@@ -17,6 +17,16 @@
 
 ---
 
+## 🎮 Live product demonstrations / Живые демо
+
+- **[DETAIL/BOOK — интерактивная онлайн-запись](https://requiemneon-ship-it.github.io/demo-booking/)**: выберите услугу, время, создайте тестовую запись, посмотрите кабинет владельца.
+- **[PipelineMint — интерактивная CRM](https://requiemneon-ship-it.github.io/demo-pipeline/)**: добавьте тестового клиента, смените этап сделки, посмотрите пересчёт воронки.
+- **[Telegram Lead Bot — демо анкеты](https://t.me/ai_ivan_7042_bot?start=formdemo)**: десять шагов и экспорт тестовых данных.
+
+*Browser demos use fictional data and do not persist real orders. Source repositories are linked below. Live demos are illustrative, not commercial client case studies.*
+
+---
+
 ## 🇬🇧 About
 
 I build websites, Telegram bots and small business systems — dashboards, lead intake, internal tools. I have more than a year of hands-on development behind me and I work in a way that makes results easy to check: typed code, automated tests, CI and a README that describes what actually exists.
