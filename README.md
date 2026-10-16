@@ -1,74 +1,58 @@
-<div align="center">
-
 # KIR NEIR
 
-**Web developer · Telegram bots · Business tools & automation**
-**Веб-разработчик · Telegram-боты · Бизнес-инструменты и автоматизация**
+**Python automation · REST APIs · Telegram bots · lightweight business tools**
 
-![Status](https://img.shields.io/badge/status-open%20for%20orders-brightgreen)
-![Languages](https://img.shields.io/badge/speaks-RU%20%7C%20EN-blue)
+I build small, clearly scoped software that removes repetitive work: request intake, notifications, data processing, internal dashboards and API integrations.
 
-🌐 **[Портфолио / Portfolio](https://requiemneon-ship-it.github.io)** · **[Услуги и реальные демо / Hire KIR NEIR](https://requiemneon-ship-it.github.io/business/)**
+Разрабатываю небольшие прикладные решения для бизнеса: автоматизация рутины, Telegram-боты, API, обработка данных и рабочие панели.
 
-**Telegram-бот сломался?** [Небольшая правка от 2 900 ₽](https://t.me/ai_ivan_7042_bot?start=site_microfix) · [Запросить ответ разработчика](https://t.me/ai_ivan_7042_bot?start=site_human)  
-*Первичный контакт принимает автоматизированный помощник Иван. Работу, стоимость и сроки согласует разработчик.*
-
-</div>
+[Portfolio and live demos](https://requiemneon-ship-it.github.io/business/) · [Email](mailto:requiemneon@gmail.com)
 
 ---
 
-## 🎮 Live product demonstrations / Живые демо
+## Selected work
 
-- **[DETAIL/BOOK — интерактивная онлайн-запись](https://requiemneon-ship-it.github.io/demo-booking/)**: выберите услугу, время, создайте тестовую запись, посмотрите кабинет владельца.
-- **[PipelineMint — интерактивная CRM](https://requiemneon-ship-it.github.io/demo-pipeline/)**: добавьте тестового клиента, смените этап сделки, посмотрите пересчёт воронки.
-- **[Telegram Lead Bot — демо анкеты](https://t.me/ai_ivan_7042_bot?start=formdemo)**: десять шагов и экспорт тестовых данных.
-
-*Browser demos use fictional data and do not persist real orders. Source repositories are linked below. Live demos are illustrative, not commercial client case studies.*
-
----
-
-## 🇬🇧 About
-
-I build websites, Telegram bots and small business systems — dashboards, lead intake, internal tools. I have more than a year of hands-on development behind me and I work in a way that makes results easy to check: typed code, automated tests, CI and a README that describes what actually exists.
-
-I use AI assistants in my workflow, the same way many teams use linters or code generators, and I verify the output with tests and manual runs before it ships.
-
-## 🇷🇺 Обо мне
-
-Делаю сайты, Telegram-боты и небольшие бизнес-системы: дашборды, приём заявок, внутренние инструменты. Больше года практики в разработке. Стараюсь, чтобы результат было легко проверить: типизированный код, автотесты, CI и README, который описывает только то, что реально есть.
-
-В работе использую ИИ-ассистентов, как другие используют линтеры и генераторы кода, а результат проверяю тестами и ручными запусками.
-
----
-
-## 🛠 Stack / Стек
-
-| Level | Technologies |
-| --- | --- |
-| **Core** | JavaScript, TypeScript, HTML, CSS, Node.js, Next.js, React, Python |
-| **Used in projects** | SQLite, PostgreSQL schema design (draft, RLS policies), REST / OpenAPI, Telegram Bot API, GitHub Actions, Git |
-| **Learning** | C, Java, system design, E2E testing |
-
-## 📦 Projects / Проекты
-
-| Project | What it is | Stack |
+| Project | Delivered and verifiable | Stack |
 | --- | --- | --- |
-| [**PipelineMint**](https://github.com/requiemneon-ship-it/pipeline-mint) | Lead-pipeline dashboard: scoring, kanban by stage, REST API, OpenAPI contract, draft multi-tenant SQL schema, CI | Next.js, TypeScript |
-| [**Telegram Lead Bot**](https://github.com/requiemneon-ship-it/telegram-lead-bot) | Bot that collects client requests step by step, validates input, stores leads in SQLite, exports CSV; RU/EN | Python (stdlib only) |
-| [**Orders API**](https://github.com/requiemneon-ship-it/orders-api) | REST API for customer orders: validation, filters and pagination, status workflow, API-key auth, 16 tests, CI | Python, FastAPI, SQLite |
-| [**Fishing store demo**](./fishing-demo) | Single-page online-store storefront (RU), lightweight Node static server | HTML, CSS, JS, Node.js |
+| [**Orders API**](https://github.com/requiemneon-ship-it/orders-api) | Order workflow, validation, filtering, pagination, API-key protection, 16 automated tests and CI | Python, FastAPI, SQLite |
+| [**Telegram Lead Bot**](https://github.com/requiemneon-ship-it/telegram-lead-bot) | RU/EN request intake, validation, persistent sessions, SQLite storage, CSV export and tested HTTP layer | Python, Telegram Bot API |
+| [**PipelineMint**](https://github.com/requiemneon-ship-it/pipeline-mint) | Lead scoring, Kanban dashboard, REST endpoint, OpenAPI contract, PostgreSQL/RLS schema tests and CI | Next.js, TypeScript, PostgreSQL |
+| [**Interactive business demos**](https://requiemneon-ship-it.github.io/demo-booking/) | Browser-based booking and sales-pipeline demonstrations that a client can try immediately | HTML, CSS, JavaScript |
 
-## 💼 What I can do for you / Чем могу помочь
+The repositories state their current limitations explicitly. Portfolio prototypes are demonstrations, not invented client case studies.
 
-- Landing pages and multi-page websites / Лендинги и многостраничные сайты
-- Telegram bots: request intake, notifications, simple CRM / Telegram-боты: приём заявок, уведомления, простая CRM
-- Admin panels and dashboards / Админки и дашборды
-- Automation of routine tasks (scripts, integrations, exports) / Автоматизация рутины (скрипты, интеграции, выгрузки)
-- Fixing and extending existing code / Доработка существующего кода
+## What I take on
 
-## 📬 Contact / Связаться
+- Fixing and extending existing Python or JavaScript code
+- REST API development and integrations
+- Telegram bots for requests, notifications and simple workflows
+- CSV, Excel and JSON processing
+- Small dashboards, calculators, forms and internal tools
+- Technical diagnostics followed by a written scope, price and acceptance criteria
 
-Open an issue in this repository or write to me via the contact listed in my profile.
-Создайте issue в этом репозитории или напишите по контакту из профиля.
+## Delivery approach
 
-<sub>Open to freelance orders worldwide · Работаю с заказами из любых стран</sub>
+1. Inspect the existing system or requirements.
+2. Confirm scope, risks, acceptance criteria, price and deadline in writing.
+3. Implement in an isolated branch or environment.
+4. Run relevant tests and provide reproducible verification steps.
+5. Deliver source code and concise operating instructions.
+
+## Technical stack
+
+**Python:** FastAPI, SQLite, REST, data processing, automation  
+**JavaScript / TypeScript:** Node.js, Next.js, React, browser applications  
+**Data and delivery:** PostgreSQL schema design, GitHub Actions, OpenAPI, Git
+
+## Contact
+
+For a paid, clearly scoped task, send:
+
+- the current problem or desired result;
+- relevant stack and access constraints;
+- expected deadline;
+- budget range, if known.
+
+**Email:** [requiemneon@gmail.com](mailto:requiemneon@gmail.com)
+
+RU / EN · Remote
